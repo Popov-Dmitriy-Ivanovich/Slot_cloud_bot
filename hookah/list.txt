@@ -1,0 +1,6 @@
+кальян с говном;2;hookah/descriptions/text1.txt;hookah/images/img1.jpg
+кальян;2;hookah/descriptions/text2.txt;hookah/images/img2.jpg
+НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.jpg
+НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.jpg
+кальян с мочёй и говном;2;hookah/descriptions/text1.txt;hookah/images/img1.jpg
+кальян из нормального заведения;1;hookah/descriptions/text2.txt;hookah/images/img2.jpg

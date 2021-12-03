@@ -1,0 +1,5 @@
+табак с говном;4;tobacco/descriptions/text1.txt;tobacco/images/img1.jpg
+табак без никотина;1;tobacco/descriptions/text1.txt;tobacco/images/1.png
+НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.txt
+НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.txt
+табак из беломорканала;2;tobacco/descriptions/text1.txt;tobacco/images/img2.jpg
