@@ -1,5 +1,5 @@
-чаша с говном;6;bowl/descriptions/text1.txt;bowl/images/img1.jpg
+чаша с чаем;6;bowl/descriptions/text1.txt;bowl/images/img1.jpg
 чаша с запаянным верхом и дыркой снизу;1;bowl/descriptions/text1.txt;bowl/images/img1.jpg
 НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.jpg
 НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.jpg
-чаша с мочёй и говном;2;bowl/descriptions/text1.txt;bowl/images/img1.jpg
+чаша но её нет;2;bowl/descriptions/text1.txt;bowl/images/img1.jpg

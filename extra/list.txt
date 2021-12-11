@@ -2,4 +2,4 @@
 доставка самолётом;1;extra/descriptions/text1.txt;extra/images/1.png
 НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.txt
 НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.txt
-Минет от владельца кальяна;2;extra/descriptions/text1.txt;extra/images/1.png
+одобрение от владельца кальяна;2;extra/descriptions/text1.txt;extra/images/1.png

@@ -1,5 +1,5 @@
-колба с говном;4;flask/descriptions/text1.txt;flask/images/1.png
+колба с водой;4;flask/descriptions/text1.txt;flask/images/1.png
 колба синяя;1;flask/descriptions/text2.txt;flask/images/img1.png
 НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.txt
 НЕОТОБРАЖАЕТСЯ;0;/hookah/descriptions/text1.txt;/hookah/images/img1.txt
-колба с мочёй и говном;2;flask/descriptions/text2.txt;flask/images/img1.png
+колба с химикатами;2;flask/descriptions/text2.txt;flask/images/img1.png
